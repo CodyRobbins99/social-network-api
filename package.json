@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyRobbins99/social-network-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodyRobbins99/social-network-api/issues"
+  },
+  "homepage": "https://github.com/CodyRobbins99/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.0",
+    "mongoose": "^5.10.7"
+  }
+}
